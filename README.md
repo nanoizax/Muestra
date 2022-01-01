@@ -1,5 +1,3 @@
-# yummy
-Prueba lista
 
 Librerias de terceros usadas
 
